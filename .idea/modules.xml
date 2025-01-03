@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/Kryptonyt.iml" filepath="$PROJECT_DIR$/.idea/Kryptonyt.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/Kryptonyt-VER1.iml" filepath="$PROJECT_DIR$/.idea/Kryptonyt-VER1.iml" />
+>>>>>>> e5abb405c3886eca30d7568af49caafd1958fe48
     </modules>
   </component>
 </project>

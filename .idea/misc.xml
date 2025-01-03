@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (Kryptonyt)" project-jdk-type="Python SDK" />
+=======
+  <component name="Black">
+    <option name="sdkName" value="Python 3.12 (Kryptonyt-VER1)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (Kryptonyt-VER1)" project-jdk-type="Python SDK" />
+>>>>>>> e5abb405c3886eca30d7568af49caafd1958fe48
 </project>

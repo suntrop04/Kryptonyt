@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+<<<<<<< HEAD
+=======
+    <mapping directory="$PROJECT_DIR$/Kryptonyt" vcs="Git" />
+>>>>>>> e5abb405c3886eca30d7568af49caafd1958fe48
   </component>
 </project>
